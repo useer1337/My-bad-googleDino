@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e24b179-dfb9-4732-965f-d3ca75e2542f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZPB1XeZtIfgclNZSTt9uaQBib1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.game">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pygame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pygame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.game1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e24b179-dfb9-4732-965f-d3ca75e2542f" name="Default Changelist" comment="" />
+      <created>1584730633772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584730633772</updated>
+      <workItem from="1584730644343" duration="7292000" />
+      <workItem from="1584768883401" duration="712000" />
+      <workItem from="1584863657869" duration="11939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="80" key="GridCell.Tab.0.bottom" timestamp="1584875772949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="80" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584875772949" />
+    <state width="1323" height="80" key="GridCell.Tab.0.center" timestamp="1584875772949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="80" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584875772949" />
+    <state width="1323" height="80" key="GridCell.Tab.0.left" timestamp="1584875772949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="80" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584875772949" />
+    <state width="1323" height="80" key="GridCell.Tab.0.right" timestamp="1584875772949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="80" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584875772949" />
+    <state width="1323" height="105" key="GridCell.Tab.1.bottom" timestamp="1584875150384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584875150384" />
+    <state width="1323" height="105" key="GridCell.Tab.1.center" timestamp="1584875150384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584875150384" />
+    <state width="1323" height="105" key="GridCell.Tab.1.left" timestamp="1584875150384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584875150384" />
+    <state width="1323" height="105" key="GridCell.Tab.1.right" timestamp="1584875150384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584875150384" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584868627171">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584868627171" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/game1.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="second_image" language="Python" />
+        <watch expression="cactus_list[cactus_random1].left" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pygame$game.coverage" NAME="game Coverage Results" MODIFIED="1584875772939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pygame$game1.coverage" NAME="game1 Coverage Results" MODIFIED="1584871548025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
